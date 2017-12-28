@@ -1,0 +1,19 @@
+{
+  "name": "@johno/nt",
+  "description": "The minimal note taking script",
+  "author": "John Otander",
+  "version": "0.0.1",
+  "main": "nt.sh",
+  "bin": {
+    "nt": "nt.sh"
+  },
+  "files": [
+    "nt.sh"
+  ],
+  "repository": "johnotander/nt",
+  "keywords": [
+    "notes",
+    "bash"
+  ],
+  "license": "MIT"
+}
