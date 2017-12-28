@@ -3,9 +3,9 @@
   "description": "The minimal note taking script",
   "author": "John Otander",
   "version": "0.0.2",
-  "main": "nt.sh",
+  "main": "npm.sh",
   "bin": {
-    "nt": "nt.sh"
+    "nt": "npm.sh"
   },
   "files": [
     "nt.sh"
